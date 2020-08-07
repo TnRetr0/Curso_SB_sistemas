@@ -1,0 +1,64 @@
+body{
+    
+    margin: 0;
+} 
+
+.header{
+    padding-top: 18px;
+    background: rgb(7, 7, 66);
+    color: #ffffff;
+}
+
+
+.conteiner{
+    margin: 0 auto;
+    max-width: 1170px;
+}
+
+
+.menu__wropper{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-item__link{
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+    transition: 0.1s all ease-in;
+}
+
+.menu-item__link:hover{
+    background: #fff;
+    border-radius: 5px;
+    color: #00c6bf;
+    
+}
+
+
+.main-text__wrapper{
+    padding: 150px 0px;
+    text-align: center;
+}
+
+.main__title{
+    font-size: 52px;
+}
+
+.sub__title{
+    font-size: 16px;
+}
+
+.btn{
+    border-radius: 16px;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.btn__orange{
+    background-color: #FF304F;
+    color: #FFC500;
+}
+
+
